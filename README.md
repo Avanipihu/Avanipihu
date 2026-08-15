@@ -63,6 +63,9 @@ Financial market analysis and visualization using Power BI.
 ### 🛒 Retail Market Data Analysis
 Exploratory data analysis and machine learning on retail data.
 
+### 🔐 Secured Banking System
+A C-based mini banking system focused on programming fundamentals
+and basic security concepts.
 ---
 
 # 📚 Currently Learning
