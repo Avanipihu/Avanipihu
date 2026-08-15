@@ -5,7 +5,7 @@
 I'm an Artificial Intelligence & Machine Learning student interested in
 building practical AI and data-driven systems.
 
-I enjoy turning ideas into working projects — from data analysis and
+I enjoy turning ideas into working projects from data analysis and
 machine learning models to dashboards, computer vision and software systems.
 
 ---
