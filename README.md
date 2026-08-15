@@ -54,25 +54,14 @@ machine learning models to dashboards, computer vision and software systems.
 
 # 🚀 Featured Projects
 
-### 🤖 AI & Computer Vision
-Projects exploring machine learning and computer vision for practical
-applications.
+### 🌐 Student Incubator
+A web-based platform for students to share and explore ideas.
 
 ### 📊 NIFTY 50 Power BI Dashboard
 Financial market analysis and visualization using Power BI.
 
 ### 🛒 Retail Market Data Analysis
 Exploratory data analysis and machine learning on retail data.
-
-### 🎬 Movie Recommendation System
-A machine learning based recommendation project.
-
-### 🌐 Student Incubator
-A web-based platform for students to share and explore ideas.
-
-### 🔐 Secured Banking System
-A C-based mini banking system focused on programming fundamentals
-and basic security concepts.
 
 ---
 
