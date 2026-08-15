@@ -1,6 +1,6 @@
 # Hi, I'm Avani Jain 👋
 
-### AIML Student | Machine Learning | Data | Computer Vision
+### AIML Student | Turning Data & AI Concepts into Practical Projects
 
 I'm an Artificial Intelligence & Machine Learning student interested in
 building practical AI and data-driven systems.
