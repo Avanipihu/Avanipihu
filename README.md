@@ -12,12 +12,12 @@ machine learning models to dashboards, computer vision and software systems.
 
 ## 🧠 About Me
 
-- 🎓 Artificial Intelligence & Machine Learning student
-- 🐍 Working primarily with Python and C
-- 🤖 Exploring Machine Learning and Computer Vision
-- 📊 Interested in Data Analysis and Visualization
-- 💻 Building projects to strengthen software and AI fundamentals
-- 🔍 Interested in real-world applications of AI
+-  Artificial Intelligence & Machine Learning student
+-  Working primarily with Python and C
+-  Exploring Machine Learning and Computer Vision
+-  Interested in Data Analysis and Visualization
+-  Building projects to strengthen software and AI fundamentals
+-  Interested in real-world applications of AI
 
 ---
 
@@ -36,7 +36,6 @@ machine learning models to dashboards, computer vision and software systems.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## Data & Visualization
