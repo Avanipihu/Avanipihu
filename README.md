@@ -71,11 +71,9 @@ and basic security concepts.
 # 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Advanced Machine Learning
-- Computer Vision
+- Machine Learning
 - SQL
 - Linux / Ubuntu
-- Deep Learning
 - AI system development
 
 ---
