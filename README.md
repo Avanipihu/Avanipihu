@@ -50,7 +50,7 @@ machine learning models to dashboards, computer vision and software systems.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
+
 
 #  Featured Projects
 
@@ -66,7 +66,7 @@ Exploratory data analysis and machine learning on retail data.
 ###  Secured Banking System
 A C-based mini banking system focused on programming fundamentals
 and basic security concepts.
----
+
 
 #  Currently Learning
 
@@ -76,11 +76,11 @@ and basic security concepts.
 - Linux / Ubuntu
 - AI system development
 
----
+
 
 #  Areas of Interest
 
-```text
+
 Machine Learning
 Computer Vision
 Data Science
