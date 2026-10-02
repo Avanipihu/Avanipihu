@@ -10,7 +10,7 @@ machine learning models to dashboards, computer vision and software systems.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 -  Artificial Intelligence & Machine Learning student
 -  Working primarily with Python and C
@@ -21,7 +21,7 @@ machine learning models to dashboards, computer vision and software systems.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ## Core
 
@@ -52,23 +52,23 @@ machine learning models to dashboards, computer vision and software systems.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 🌐 Student Incubator
+###  Student Incubator
 A web-based platform for students to share and explore ideas.
 
-### 📊 NIFTY 50 Power BI Dashboard
+###  NIFTY 50 Power BI Dashboard
 Financial market analysis and visualization using Power BI.
 
-### 🛒 Retail Market Data Analysis
+###  Retail Market Data Analysis
 Exploratory data analysis and machine learning on retail data.
 
-### 🔐 Secured Banking System
+###  Secured Banking System
 A C-based mini banking system focused on programming fundamentals
 and basic security concepts.
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Data Structures & Algorithms
 - Machine Learning
@@ -78,7 +78,7 @@ and basic security concepts.
 
 ---
 
-# 🎯 Areas of Interest
+#  Areas of Interest
 
 ```text
 Machine Learning
