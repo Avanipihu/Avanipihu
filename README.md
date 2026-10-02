@@ -81,10 +81,10 @@ and basic security concepts.
 #  Areas of Interest
 
 
-Machine Learning
-Computer Vision
-Data Science
-Artificial Intelligence
-Automation
-Intelligent Systems
-Data Visualization
+- Machine Learning
+- Computer Vision
+- Data Science
+- Artificial Intelligence
+- Automation
+- Intelligent Systems
+- Data Visualization
