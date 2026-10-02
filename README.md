@@ -67,6 +67,8 @@ Exploratory data analysis and machine learning on retail data.
 A C-based mini banking system focused on programming fundamentals
 and basic security concepts.
 
+###  Yatra360
+AI-powered travel intelligence for safer, smarter, and more personalized journeys across India.
 
 #  Currently Learning
 
